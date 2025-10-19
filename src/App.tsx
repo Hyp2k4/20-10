@@ -186,7 +186,7 @@ function App() {
 
               <div className="space-y-6 text-gray-700 text-lg leading-relaxed">
                 <p className="animate-fade-in-up" style={{ animationDelay: '0.2s' }}>
-                  Nhân ngày 20/10, anh muốn gửi đến em những lời chúc tốt đẹp nhất.
+                  Hôm nay 20/10 – ngày dành để tôn vinh những người phụ nữ tuyệt vời, ngoài mẹ ra thì em chính là 1 phần ý nghĩa với anh <3 . Cảm ơn em vì luôn đồng hành, thấu hiểu và chia sẻ mọi điều cùng anh. Chúc em luôn vui vẻ, mạnh mẽ và làm những điều mình yêu thích. Xin lỗi em vì chẳng có hoa hay quà, chỉ mong hôm nay em thấy mình được trân trọng và hạnh phúc — không chỉ hôm nay mà là mỗi ngày. Yêu cô gái của tui
                 </p>
                 <p className="animate-fade-in-up font-semibold text-pink-700 text-xl text-center" style={{ animationDelay: '1s' }}>
                   Anh yêu em nhiều lắm! ❤️
