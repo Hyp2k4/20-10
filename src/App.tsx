@@ -123,7 +123,7 @@ function App() {
               </h2>
 
               <p className="text-gray-700 text-lg text-center mb-8">
-                Ngày chúng mình yêu nhau chính thức là ngày nào? 💕
+                Họ và tên của em? 💕
               </p>
 
               <form onSubmit={handleSubmitAnswer} className="space-y-6">
