@@ -119,7 +119,7 @@ function App() {
               </div>
 
               <h2 className="text-2xl md:text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-red-600 text-center mb-6">
-                Câu Hỏi Dành Cho Em
+                Câu hỏi dành cho NgerNger
               </h2>
 
               <p className="text-gray-700 text-lg text-center mb-8">
@@ -173,7 +173,7 @@ function App() {
               </div>
 
               <h2 className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-pink-600 to-red-600 text-center mb-8">
-                Dear my luv ❤️
+                Dear Nger  ❤️
               </h2>
 
               <div className="mb-8 rounded-2xl overflow-hidden shadow-lg">
@@ -189,7 +189,7 @@ function App() {
                   Hôm nay 20/10 – ngày dành để tôn vinh những người phụ nữ tuyệt vời, ngoài mẹ ra thì em chính là 1 phần ý nghĩa với anh <3 . Cảm ơn em vì luôn đồng hành, thấu hiểu và chia sẻ mọi điều cùng anh. Chúc em luôn vui vẻ, mạnh mẽ và làm những điều mình yêu thích. Xin lỗi em vì chẳng có hoa hay quà, chỉ mong hôm nay em thấy mình được trân trọng và hạnh phúc — không chỉ hôm nay mà là mỗi ngày. Yêu cô gái của tui
                 </p>
                 <p className="animate-fade-in-up font-semibold text-pink-700 text-xl text-center" style={{ animationDelay: '1s' }}>
-                  Anh yêu em nhiều lắm! ❤️
+                  Anh yêu em nhiều lắm! LUSTIO ❤️
                 </p>
               </div>
 
