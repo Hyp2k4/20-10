@@ -25,7 +25,7 @@ function App() {
 
   const handleSubmitAnswer = (e: React.FormEvent) => {
     e.preventDefault();
-    const correctAnswer = '18/10/2025';
+    const correctAnswer = 'Nguyễn Diệu Linh';
 
     if (answer === correctAnswer) {
       setError('');
