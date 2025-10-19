@@ -178,7 +178,7 @@ function App() {
 
               <div className="mb-8 rounded-2xl overflow-hidden shadow-lg">
                 <img
-                  src="src/img/566485127_1387792136277058_1537409380867149166_n.jpg"
+                  src="https://scontent.fhan20-1.fna.fbcdn.net/v/t1.15752-9/566485127_1387792136277058_1537409380867149166_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=YH-JJvb3l4EQ7kNvwHZZPdy&_nc_oc=AdnAxkH214RKglehDwoXrD3kdxItQokuiq4SSoJfu2l9cS0hA9jotPero7mL_o8daTw&_nc_zt=23&_nc_ht=scontent.fhan20-1.fna&oh=03_Q7cD3gF0mKYK4-pBxrFMH9TK7InL4a5vq9MolQYjGAamTkcx4g&oe=691CB438"
                   alt="Romantic couple"
                   className="w-full h-100 object-cover"
                 />
