@@ -132,7 +132,7 @@ function App() {
                     type="text"
                     value={answer}
                     onChange={(e) => setAnswer(e.target.value)}
-                    placeholder="DD/MM/YYYY"
+                    placeholder="Tên của em đó  <3 "
                     className="w-full px-6 py-4 text-lg text-center border-2 border-pink-300 rounded-2xl focus:outline-none focus:border-pink-500 focus:ring-2 focus:ring-pink-200 transition-all"
                   />
                 </div>
